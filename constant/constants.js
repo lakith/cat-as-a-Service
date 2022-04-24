@@ -1,0 +1,22 @@
+// contents in here are default values
+const BASE_URL = "https://cataas.com/cat/says/";
+const WIDTH_OF_SAMPLE_IMAGE = 400;
+const HEIGHT_OF_SAMPLE_IMAGE = 500;
+const COLOR_OF_SAMPLE_IMAGE_TEXT = "Pink";
+const SIZE_OF_SAMPLE_IMAGE = 100;
+const FORMAT_OF_FINAL_IMAGE = "jpeg";
+const IMAGE_ENCODING_FORMAT = "binary";
+const DEFAULT_OUTPUT_IMAGE_NAME = "cat-card.jpg";
+const DEFAULT_OUTPUT_IMAGE_PATH = "";
+
+module.exports = {
+  BASE_URL,
+  WIDTH_OF_SAMPLE_IMAGE,
+  HEIGHT_OF_SAMPLE_IMAGE,
+  COLOR_OF_SAMPLE_IMAGE_TEXT,
+  SIZE_OF_SAMPLE_IMAGE,
+  FORMAT_OF_FINAL_IMAGE,
+  IMAGE_ENCODING_FORMAT,
+  DEFAULT_OUTPUT_IMAGE_NAME,
+  DEFAULT_OUTPUT_IMAGE_PATH,
+};
