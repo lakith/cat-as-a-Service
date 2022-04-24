@@ -1,4 +1,4 @@
-# Project Title
+# NODE APP FOR CAT AS A SERVICE
 
 Merge Cat images from - https://cataas.com
 
